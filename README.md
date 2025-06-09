@@ -20,3 +20,7 @@
 
 > 본 프로젝트는 파이썬프로그래밍 기말과제 기반으로 작성되었으며,
 > 이후 포트폴리오용 확장을 위해 기능 개선 및 GitHub 정리를 진행하였습니다.
+
+# 샘플 데이터
+실행 후 생성된 'daily_habit.csv' 파일의 예시는 아래 링크에서 확인할 수 있습니다.
+[샘플 CSV 데이터 보기] (https://github.com/kde-devs/daily-habit-tracker-kde/blob/main/daily_habits.csv)
